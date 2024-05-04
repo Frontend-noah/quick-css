@@ -1,0 +1,33 @@
+.box1 {
+    background-color: antiquewhite;
+    color: royalblue;
+
+    border: 5px blue solid;
+    border-right: 5px red solid;
+    border-left: 8px blue solid;
+    border-top: 10px green dotted;
+    border-bottom: 1px firebrick double;
+
+    border-bottom-width: 8px;
+    border-block-style: dashed;
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left:  10px;
+    padding-right: 10px;
+}
+
+.container {
+
+}
+
+.list li {
+    list-style-image: url("../img/check.avif")
+}
+
+/* position in css */
+/* static
+relative
+absolute
+fixed
+sticky */
